@@ -1,6 +1,11 @@
 # Custom Wedding Site
 ## NextJS, TS, Firebase, Shadcn, Vercel
 
+![modal](https://github.com/user-attachments/assets/9006f3c7-46ed-46b1-960f-7a996c263463)
+![hero3](https://github.com/user-attachments/assets/d98e48fc-bcae-4c51-95ac-3038c9739059)
+![countdown](https://github.com/user-attachments/assets/fb72f803-b0a0-4920-b263-8878e93bdb17)
+
+
 ### Edits, Collabs and Usage
  + Original code. Can be copied, pulled, used, etc.
  + Always willing to accept edits, suggestions. 
