@@ -1,4 +1,4 @@
-#Custom Wedding Site
+# Custom Wedding Site
 ## NextJS, TS, Firebase, Shadcn, Vercel
 
 ### Edits, Collabs and Usage
